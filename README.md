@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there, I'm Amarjeet singh! 👋
 
-<!--
-**csed7/csed7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-Year B.Tech Student | Computer Science & Engineering**
 
-Here are some ideas to get you started:
+💻 Passionate about coding, problem-solving, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning programming fundamentals and building my development skills.
+
+🚀 My goal is to turn ideas into real-world projects and become a skilled software developer.
+
+### 🛠️ What I'm Working On
+- 📚 Strengthening my programming fundamentals
+- 💡 Exploring Data Structures & Algorithms
+- 🔨 Building beginner-friendly projects
+- 🌐 Learning about software development and open source
+
+### 🎯 2026 Goals
+- Build and publish my first meaningful projects
+- Improve my problem-solving skills
+- Maintain a consistent coding habit
+- Collaborate with other developers
+
+### 🤝 Let's Connect
+- 💻 GitHub: You're already here!
+- 📩 Email: your-email@example.com
+
+⭐ *Learning every day. Building step by step. Growing with every commit.*
